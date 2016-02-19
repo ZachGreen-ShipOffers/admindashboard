@@ -1,0 +1,21 @@
+{
+  "name": "admindashboard",
+  "authors": [
+    "Zach Green <zach@eyefive.com>"
+  ],
+  "description": "Dashboard for ShipOffers",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.11.2"
+  }
+}
