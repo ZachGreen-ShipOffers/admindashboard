@@ -1,3 +1,4 @@
+require './lib/routes'
 require 'dashing'
 
 configure do

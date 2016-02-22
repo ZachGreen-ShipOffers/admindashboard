@@ -53,6 +53,7 @@ GEM
     rufus-scheduler (2.0.24)
       tzinfo (>= 0.3.22)
     sass (3.2.19)
+    sequel (4.31.0)
     simple_oauth (0.3.1)
     sinatra (1.4.7)
       rack (~> 1.5)
@@ -101,6 +102,7 @@ DEPENDENCIES
   awesome_print
   dashing
   pg
+  sequel
   twitter (>= 5.9.0)
 
 BUNDLED WITH
