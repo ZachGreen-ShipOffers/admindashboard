@@ -5,4 +5,3 @@ gem 'dashing', source: 'http://zachjamesgreen:dockergems@gems.zachgreen.codes:92
 gem 'pg'
 gem 'awesome_print'
 gem 'sequel'
-gem 'httparty'
