@@ -1,4 +1,7 @@
 require 'dashing'
+require 'pg'
+require 'sequel'
+require '/home/zach/Files/admindashboard/lib/database.rb'
 
 configure do
   set :auth_token, 'YOUR_AUTH_TOKEN'
